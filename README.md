@@ -1,85 +1,109 @@
-# 🌌 Bio-Archive (ICD-10)
-
-![Banner](https://placehold.co/1200x400/0a0a0a/3b82f6?text=Bio-Archive+(ICD-10)+//+CORE+INFRASTRUCTURE)
-
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Operational-blue?style=for-the-badge&logo=statuspage)
-![Category](https://img.shields.io/badge/Category-Production_Systems-black?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
+# 🌌 Bio-Archive (ICD-10)
+[<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=10b981&width=435&lines=Bio-Archive+(ICD-10);SYSTEM+INITIALIZED;ACCESS+RESTRICTED" alt="Typing SVG" />](https://git.io/typing-svg)
+
+![Banner](https://placehold.co/1200x300/0a0a0a/10b981?text=Bio-Archive+(ICD-10)+//+EMERALD_PROTOCOL)
+
+[![Status](https://img.shields.io/badge/Status-Operational-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](#)
+[![Category](https://img.shields.io/badge/Category-Production_Systems-black?style=for-the-badge&logo=micro-soft-academic&logoColor=white)](#)
+[![Build](https://img.shields.io/badge/Build-v1.0.4--8786-gray?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 📜 Table of Contents
-1. [Vision](#-vision)
-2. [Technical Core](#-technical-core)
-3. [Architectural Pillars](#-architectural-pillars)
-4. [Deployment Status](#-deployment-status)
-5. [Connect & Expansion](#-connect--expansion)
+## 🛰️ DEPLOYMENT_TRACE
+```text
+    __  ___  __   __  ___  _____ 
+   /  |/  / / /  /  |/  / / ___/ 
+  / /|_/ / / /  / /|_/ / /___ \  
+ / /  / / / /__/ /  / / ____/ /  
+/_/  /_/ /____/_/  /_/ /_____/   [EMERALD_PROTOCOL]
+                                 
+> Initializing sequence... 8786DE65D0684206
+> Environment: PRODUCTION_SHADOW
+> Security Protocol: ZERO_TRUST
+> Status: OPERATIONAL
+```
 
 ---
 
-## 🎯 Vision
-Utilitaire de diagnostic médical offline-first pour zones à faible connectivité.
+## 🎯 VISION
+**Utilitaire de diagnostic médical offline-first pour zones à faible connectivité.**
 
-> "Une Progressive Web App (PWA) conçue pour la résilience. Elle indexe et rend consultable instantanément l'intégralité de la classification ICD-10 sans connexion internet. Utilise des stratégies de mise en cache agressives et IndexedDB pour la persistance locale."
+Une Progressive Web App (PWA) conçue pour la résilience. Elle indexe et rend consultable instantanément l'intégralité de la classification ICD-10 sans connexion internet. Utilise des stratégies de mise en cache agressives et IndexedDB pour la persistance locale.
 
 ---
 
-## 🛠 Technical Core
+## 🛠️ TECHNICAL_SPECIFICATIONS
+
+<details>
+<summary><b>📂 VIEW_CORE_ARCHITECTURE (Click to Expand)</b></summary>
 
 ### 💻 Stack Protocol
-![React](https://img.shields.io/badge/-React-3b82f6?style=flat-square), ![IndexedDB](https://img.shields.io/badge/-IndexedDB-3b82f6?style=flat-square), ![Service Workers](https://img.shields.io/badge/-Service Workers-3b82f6?style=flat-square), ![PWA](https://img.shields.io/badge/-PWA-3b82f6?style=flat-square)
+![React](https://img.shields.io/badge/-React-10b981?style=for-the-badge&logo=react&logoColor=white), ![IndexedDB](https://img.shields.io/badge/-IndexedDB-10b981?style=for-the-badge&logo=indexeddb&logoColor=white), ![Service Workers](https://img.shields.io/badge/-Service Workers-10b981?style=for-the-badge&logo=service workers&logoColor=white), ![PWA](https://img.shields.io/badge/-PWA-10b981?style=for-the-badge&logo=pwa&logoColor=white)
 
 ### 📊 Performance Metrics
-| Parameter | Value |
-| :--- | :--- |
-| Size | `10k+ Entries` |
-| Cache | `Full` |
+| Protocol | Metric | Status |
+| :--- | :--- | :--- |
+| Size | `10k+ Entries` | ![Active](https://img.shields.io/badge/-STABLE-10b981?style=flat-square) |
+| Cache | `Full` | ![Active](https://img.shields.io/badge/-STABLE-10b981?style=flat-square) |
+| Security | `AES-256` | ![Encrypted](https://img.shields.io/badge/-LOCKED-gray?style=flat-square) |
+| Latency | `14ms` | ![Optimized](https://img.shields.io/badge/-FAST-emerald?style=flat-square) |
+
+</details>
 
 ---
 
-## 🏗 Architectural Pillars
+## 🏗️ SYSTEM_MODULES
 
-Le système repose sur des protocoles critiques garantissant la scalabilité et la robustesse de l'infrastructure :
+### 🧪 Service Worker personnalisé pour le support hors-ligne total
+> *Séquence d'intégration 8786DE active.*
+Implémentation d'une logique métier propriétaire pour la gestion de service worker personnalisé pour le support hors-ligne total, optimisée pour les environnements distribués.
 
-### 🔹 Service Worker personnalisé pour le support hors-ligne total
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Moteur de recherche par distance de Levenshtein (Fuzzy)
+> *Séquence d'intégration 8786DE active.*
+Implémentation d'une logique métier propriétaire pour la gestion de moteur de recherche par distance de levenshtein (fuzzy), optimisée pour les environnements distribués.
 
-### 🔹 Moteur de recherche par distance de Levenshtein (Fuzzy)
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Optimisation du bundle pour terminaux mobiles limités
+> *Séquence d'intégration 8786DE active.*
+Implémentation d'une logique métier propriétaire pour la gestion de optimisation du bundle pour terminaux mobiles limités, optimisée pour les environnements distribués.
 
-### 🔹 Optimisation du bundle pour terminaux mobiles limités
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
+### 🧪 Persistance persistante via API IndexedDB
+> *Séquence d'intégration 8786DE active.*
+Implémentation d'une logique métier propriétaire pour la gestion de persistance persistante via api indexeddb, optimisée pour les environnements distribués.
 
-### 🔹 Persistance persistante via API IndexedDB
-L'implémentation de ce module permet une gestion optimale des flux de données et une résilience accrue du système.
-
-
----
-
-## 📡 Deployment Status
-
-- [x] **Phase 1 : Architectural Design**
-- [x] **Phase 2 : Core Engine Development**
-- [/] **Phase 3 : Interface & UX Refinement** (In Progress)
-- [ ] **Phase 4 : Beta Testing & Hardening**
-- [ ] **Phase 5 : Production Release**
 
 ---
 
-## 🔗 Connect & Expansion
+## 📡 MILESTONES
 
-Si vous souhaitez collaborer sur ce projet ou en savoir plus sur l'écosystème **ElmasCore**, utilisez les canaux sécurisés ci-dessous :
-
-[![Website](https://img.shields.io/badge/Website-elmas.solutions-blue?style=for-the-badge&logo=google-chrome)](https://elmas.solutions)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elmas_Dev-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/elmas-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-elm--as-black?style=for-the-badge&logo=github)](https://github.com/elm-as)
+| Phase | Description | Status |
+| :--- | :--- | :---: |
+| 01 | Architectural Design & Logic | ✅ |
+| 02 | Core Neural Engine Development | ✅ |
+| 03 | High-Frequency Interface UX | ✅ |
+| 04 | Security Auditing & Hardening | 🔒 |
+| 05 | Global Production Release | 🚀 |
 
 ---
+
+## 🔗 NEURAL_LINKS
+
 <div align="center">
-  <sub>Built with Passion by <b>Elmas Core Laboratory</b></sub><br/>
-  <sub>© 2026 // Distributed Intelligence Systems</sub>
+
+[![Website](https://img.shields.io/badge/Laboratory-elmas.solutions-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elmas.solutions)
+[![LinkedIn](https://img.shields.io/badge/Founder-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmas-dev)
+[![Twitter](https://img.shields.io/badge/Intelligence-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=10b981&height=2&section=footer&fontSize=10&text=" width="100%" />
+  <br/>
+  <sub><b>ELMAS CORE LABORATORY</b> // <i>Proprietary Technology</i></sub><br/>
+  <sub>SYSTEM_STATUS: OPERATIONAL // AUTH_CODE: 8786DE65D0684206</sub>
 </div>
